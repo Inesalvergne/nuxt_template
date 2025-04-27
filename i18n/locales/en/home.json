@@ -1,0 +1,9 @@
+{
+  "home": {
+    "header": {
+      "title": "Welcome to the Nuxt template",
+      "description": "Let's start a new project !",
+      "cta": "Let's go"
+    }
+  }
+}
